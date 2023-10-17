@@ -101,7 +101,7 @@ body {
     color: white;
     display: none;
   }
-  .menu-button .bar {
+  .menu-button .Fake {
     height: 3px;
     width: 22px;
     background-color:white;
@@ -169,7 +169,7 @@ body {
       font-size: 1.5rem;
     }
     .section img {
-      width: 100%;
+      max-width: 100%;
       margin:auto;
     }
     
